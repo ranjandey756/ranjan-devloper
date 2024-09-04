@@ -1,3 +1,3 @@
 # ranjan-developer
-This is nmy first repository
+This is my first repository
 developer ranjan
